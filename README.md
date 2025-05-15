@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi <span><img src="Assets/waving-hand.gif" width="20px"/></span>, Hamdi Emad</h2>
+  <h2>Hi<span><img src="Assets/waving-hand.gif" width="20px"/></span>, Hamdi Emad</h2>
 </div>
 
 <br>
