@@ -48,7 +48,7 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=git,github,arduino,vscode,idea,clion,maven,windows,vim,ubuntu,matlab,linux,instagram,gmail,">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,vscode,idea,clion,maven,windows,vim,ubuntu,matlab,linux,instagram,gmail," />
+  <a href="https://skillicons.dev/icons?i=git,github,arduino,vscode,idea,clion,windows,vim,ubuntu,matlab,linux,">
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,vscode,idea,clion,windows,vim,ubuntu,matlab,linux," />
   </a>
 </div>
