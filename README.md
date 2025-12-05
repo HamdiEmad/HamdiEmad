@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi<span><img src="Assets/waving-hand.gif" width="20px"/></span>, Hamdi Emad</h2>
+  <h2>Hi<span><img src="https://cdn.pixabay.com/animation/2022/10/27/12/57/12-57-22-874_512.gif" width="20px"/></span>, Hamdi Emad</h2>
 </div>
 
 <br>
