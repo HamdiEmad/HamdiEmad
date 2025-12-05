@@ -35,7 +35,7 @@
 
 <div align="center" >
   
-  <a href="https://skillicons.dev/icons?i=c,cpp,java,">
+  <a href="https://skillicons.dev/icons?i=c,cpp,java,html,css">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,bash," />
   </a>
 </div>
